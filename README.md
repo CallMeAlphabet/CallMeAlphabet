@@ -3,11 +3,7 @@
 
 - I’m currently working on **nothing**
 
-- I’m currently learning **Hyprland ricing**
-
-- You can reach me here (because why not): **callmeletters@gmail.com**
-
-- Fun fact **I like privacy**
+- I’m currently learning **nothing**
 
 
 <h3 align="left">Languages and Tools:</h3>
