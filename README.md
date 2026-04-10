@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm CallMeAlphabet</h1>
-<h3 align="center">Some german guy</h3>
+<h3 align="center">Some German guy</h3>
 
 - I’m currently working on **nothing**
 
